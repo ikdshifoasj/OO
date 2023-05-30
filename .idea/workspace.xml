@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8584320f-e07c-48a3-9a9b-024bfe5722b0" name="变更" comment="连接github" />
+    <list default="true" id="8584320f-e07c-48a3-9a9b-024bfe5722b0" name="变更" comment="连接github">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -433,7 +435,7 @@
       <workItem from="1685334504346" duration="454000" />
       <workItem from="1685344698800" duration="4215000" />
       <workItem from="1685358802309" duration="2395000" />
-      <workItem from="1685379760958" duration="332000" />
+      <workItem from="1685379760958" duration="2084000" />
     </task>
     <task id="LOCAL-00001" summary="连接github">
       <created>1680433915952</created>
@@ -512,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685379900202</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="连接github">
+      <created>1685380288553</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1685380288553</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
